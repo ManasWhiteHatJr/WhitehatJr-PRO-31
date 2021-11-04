@@ -1,1 +1,2 @@
-# WhitehatJr-PRO-31
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
